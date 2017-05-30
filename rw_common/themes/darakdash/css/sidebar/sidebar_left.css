@@ -1,0 +1,12 @@
+#contentContainer #content {
+	margin-left: 150px;
+	margin-right: 0px;
+}
+
+#sidebarContainer {
+	float: left;
+}
+
+#sidebarContainer #sidebar {
+	padding: 24px 0 10px 20px;
+}

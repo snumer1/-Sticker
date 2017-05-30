@@ -1,0 +1,9 @@
+/* this will hide the sidebar */
+#sidebarContainer {
+	display: none;
+}
+
+
+#contentContainer #content {
+	margin: 0;
+}
